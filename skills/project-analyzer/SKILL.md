@@ -1,6 +1,6 @@
 ---
 name: project-analyzer
-description: Deep 8-dimension analysis framework for open-source projects and software architectures. Use this skill whenever you need to analyze, understand, or document any software project — whether reviewing a new repo, preparing for a technical interview, writing architecture docs, or evaluating a system design. Trigger on: "analyze this project", "understand this architecture", "deep dive into this repo", "review the system design", "how does X work architecturally", or any request involving project comprehension beyond surface-level code reading. The 8 dimensions transform shallow code tours into living architectural analysis with Why, Fallback, Closed Loop, Competitive Landscape, and Quantification — the gap between describing what exists vs explaining why it matters.
+description: "Deep 8-dimension analysis framework for software architectures. Use when analyzing, understanding, or documenting any project. Triggers: analyze this project, understand this architecture, deep dive into this repo, review the system design."
 ---
 
 # Project Analyzer — 8-Dimension Deep Analysis Framework
